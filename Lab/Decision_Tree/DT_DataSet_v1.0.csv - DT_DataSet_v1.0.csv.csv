@@ -1,0 +1,14 @@
+Day,WakeUp,HaveTalk,Weather,GoToSchool
+D1,Normal,No,Sunny,No
+D2,Normal,No,Rain,No
+D3,Early,No,Sunny,Yes
+D4,Late,No,Sunny,Yes
+D5,Late,Yes,Sunny,Yes
+D6,Late,Yes,Rain,No
+D7,Early,Yes,Rain,Yes
+D8,Normal,No,Sunny,No
+D9,Normal,Yes,Sunny,Yes
+D10,Late,Yes,Sunny,Yes
+D11,Normal,Yes,Rain,Yes
+D12,Early,No,Rain,Yes
+D13,Early,Yes,Sunny,Yes
